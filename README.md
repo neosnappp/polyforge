@@ -159,3 +159,7 @@ This tool is designed for educational, steganography research, and security CTF 
 ## License
 
 MIT
+
+## Disclaimer 2
+
+The README for this project was written by Ai. The code was written partly by AI and partly by a human.
